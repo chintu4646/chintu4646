@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chintu4646
+- 👋 Hi, I’m @chandra_reddy 
 - 👀 I’m interested in intenships and job oppertunites
-- 🌱 I’m currently learning java with dsa and doing projects web devolpment and android devoplop and ai tools and also ios  
+- 🌱 I’m currently learning java with dsa and doing projects on web devolpment and learning data science and aiml
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me gmail
 
